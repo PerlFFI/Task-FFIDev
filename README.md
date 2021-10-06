@@ -21,6 +21,10 @@ will give you these modules:
 
     [Dist::Zilla](https://metacpan.org/pod/Dist::Zilla) plugins useful for FFI
 
+- [Dist::Zilla::Plugin::DynamicPrereqs](https://metacpan.org/pod/Dist::Zilla::Plugin::DynamicPrereqs)
+
+    [Dist::Zilla](https://metacpan.org/pod/Dist::Zilla) plugin for dynamic prereqs.  Allows your FFI to use [Alien](https://metacpan.org/pod/Alien)s in fallback mode.
+
 - [FFI::C](https://metacpan.org/pod/FFI::C)
 
     Create interfaces to C structured data.

@@ -26,6 +26,10 @@ L<Dist::Zilla> minting profile for creating L<FFI::Platypus> bindings.
 
 L<Dist::Zilla> plugins useful for FFI
 
+=item L<Dist::Zilla::Plugin::DynamicPrereqs>
+
+L<Dist::Zilla> plugin for dynamic prereqs.  Allows your FFI to use L<Alien>s in fallback mode.
+
 =item L<FFI::C>
 
 Create interfaces to C structured data.
