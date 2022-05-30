@@ -2,7 +2,7 @@ package Task::FFIDev;
 
 use strict;
 use warnings;
-use 5.020;
+use 5.024;
 
 # ABSTRACT: Task bundle for FFI development
 # VERSION
@@ -67,7 +67,7 @@ Other prereqs may be added in the future if they are deemed useful for FFI devel
 
 =head1 CAVEATS
 
-This module does require Perl 5.20 or better currently, because at least some of its prereqs require
+This module does require Perl 5.24 or better currently, because at least some of its prereqs require
 that version.  Note that FFI bindings authored with these tools should work on Perls of at least
 5.8.4 or better, so this is just a I<development> requirement.
 
