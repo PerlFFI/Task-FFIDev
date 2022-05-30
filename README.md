@@ -60,7 +60,7 @@ Other prereqs may be added in the future if they are deemed useful for FFI devel
 
 # CAVEATS
 
-This module does require Perl 5.20 or better currently, because at least some of its prereqs require
+This module does require Perl 5.24 or better currently, because at least some of its prereqs require
 that version.  Note that FFI bindings authored with these tools should work on Perls of at least
 5.8.4 or better, so this is just a _development_ requirement.
 
@@ -74,7 +74,7 @@ Graham Ollis <plicease@cpan.org>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2021 by Graham Ollis.
+This software is copyright (c) 2021-2022 by Graham Ollis.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
