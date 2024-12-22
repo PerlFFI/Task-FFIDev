@@ -2,4 +2,7 @@ Task-FFIDev-*
 /.build/
 *.swp
 
-
+/Task-FFIDev-*
+/.build
+*.old
+*.orig
